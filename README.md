@@ -25,8 +25,8 @@ once installed you can just run npm start in the command line to start the serve
   ## [Links](#table-of-contents)
 
   * [Repository](https://github.com/Thedanbrown/pwa-text-editor)
-  * [Deployed Site]()
-  ![Deployed site image]()
+  * [Deployed Site](https://whispering-atoll-55056.herokuapp.com/)
+  ![Deployed site image](./client/src/images/J.A.T.E.png)
 
   ## [License](#table-of-contents)
 
