@@ -33,7 +33,6 @@ once installed you can just run npm start in the command line to start the serve
   [MIT](https://opensource.org/licenses/MIT)
 
   ## [Contributing](#table-of-contents)
-Built with help from a tutorial from [JS Mastery](https://github.com/adrianhajdin)
 
   ## [Questions](#table-of-contents)
 
